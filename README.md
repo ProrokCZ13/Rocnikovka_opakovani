@@ -1,0 +1,1 @@
+BEZ KOMENTARE(radsi)
