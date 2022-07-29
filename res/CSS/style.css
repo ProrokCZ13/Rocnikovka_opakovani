@@ -1,0 +1,19 @@
+*{font-family: 'Press Start 2P', cursive;
+    background-color: #100447;
+    color: white}
+
+h1{text-align: center}
+
+p{border: white;
+    border-radius: 50px;
+    font-size: 50px}
+
+#Start{text-align: center;
+    margin-top: 250px}
+
+#Select{text-align: center;
+    margin-top: 100px}
+
+#Level1{}
+
+#Level2{}
